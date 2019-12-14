@@ -1,0 +1,45 @@
+{
+  "name": "Miami Days",
+  "image": "https://raw.githubusercontent.com/Formula0x/F0x.ERC-721/master/assets/concepts/miami_days/asset.png", 
+  "description": "Inspired by a day in the 80's in Miami, Florida", 
+  "attributes": [
+    {
+      "trait_type": "name", 
+      "value": "Miami Days"
+    },
+    {
+      "trait_type": "class", 
+      "value": "2017 F1"
+    },
+    {
+      "trait_type": "design", 
+      "value": "Concept"
+    },
+    {
+      "trait_type": "base_color", 
+      "value": "Light Blue"
+    },
+    {
+      "display_type": "number", 
+      "trait_type": "generation", 
+      "value": 1
+    },
+    {
+      "display_type": "number", 
+      "trait_type": "supply", 
+      "value": 1
+    },
+    {
+      "display_type": "number", 
+      "trait_type": "year", 
+      "value": 2019
+    },
+    {
+      "display_type": "date", 
+      "trait_type": "birthday", 
+      "value": 1576362272
+    }
+  ],
+  "external_url": "https://twitter.com/formula0x", 
+  "background_color": "242424"
+}
