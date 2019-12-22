@@ -1,0 +1,45 @@
+{
+  "name": "ENS",
+  "image": "https://raw.githubusercontent.com/Formula0x/F0x.ERC-721/master/assets/partners/ens/asset.png", 
+  "description": "ENS (Ethereum Name Service) domains inspired livery.", 
+  "attributes": [
+    {
+      "trait_type": "name", 
+      "value": "ENS"
+    },
+    {
+      "trait_type": "class", 
+      "value": "2019 Indycar Oval Spec"
+    },
+    {
+      "trait_type": "design", 
+      "value": "Concept"
+    },
+    {
+      "trait_type": "base_color", 
+      "value": "Neon Green"
+    },
+    {
+      "display_type": "number", 
+      "trait_type": "generation", 
+      "value": 1
+    },
+    {
+      "display_type": "number", 
+      "trait_type": "supply", 
+      "value": 1
+    },
+    {
+      "display_type": "number", 
+      "trait_type": "year", 
+      "value": 2019
+    },
+    {
+      "display_type": "date", 
+      "trait_type": "birthday", 
+      "value": 1577199176000
+    }
+  ],
+  "external_url": "https://twitter.com/formula0x", 
+  "background_color": "ffffff"
+}
