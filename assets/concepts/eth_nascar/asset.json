@@ -1,0 +1,45 @@
+{
+  "name": "ETH NASCAR",
+  "image": "https://raw.githubusercontent.com/Formula0x/F0x.ERC-721/master/assets/concepts/eth_nascar/asset.png", 
+  "description": "Ethereum (ETH) inspired NASCAR", 
+  "attributes": [
+    {
+      "trait_type": "name", 
+      "value": "ETH NASCAR"
+    },
+    {
+      "trait_type": "class", 
+      "value": "NASCAR"
+    },
+    {
+      "trait_type": "design", 
+      "value": "Concept"
+    },
+    {
+      "trait_type": "base_color", 
+      "value": "White"
+    },
+    {
+      "display_type": "number", 
+      "trait_type": "generation", 
+      "value": 2
+    },
+    {
+      "display_type": "number", 
+      "trait_type": "supply", 
+      "value": 1
+    },
+    {
+      "display_type": "number", 
+      "trait_type": "year", 
+      "value": 2020
+    },
+    {
+      "display_type": "date", 
+      "trait_type": "birthday", 
+      "value": 1579720355
+    }
+  ],
+  "external_url": "https://twitter.com/formula0x", 
+  "background_color": "242424"
+}
