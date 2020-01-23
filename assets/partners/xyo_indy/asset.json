@@ -1,0 +1,45 @@
+{
+  "name": "XYO IndyCar",
+  "image": "https://raw.githubusercontent.com/Formula0x/F0x.ERC-721/master/assets/partners/xyo_indy/asset.png", 
+  "description": "XYO inspired IndyCar", 
+  "attributes": [
+    {
+      "trait_type": "name", 
+      "value": "XYO IndyCar"
+    },
+    {
+      "trait_type": "class", 
+      "value": "IndyCar"
+    },
+    {
+      "trait_type": "design", 
+      "value": "Partner"
+    },
+    {
+      "trait_type": "base_color", 
+      "value": "Blue-Purple"
+    },
+    {
+      "display_type": "number", 
+      "trait_type": "generation", 
+      "value": 1
+    },
+    {
+      "display_type": "number", 
+      "trait_type": "supply", 
+      "value": 1
+    },
+    {
+      "display_type": "number", 
+      "trait_type": "year", 
+      "value": 2020
+    },
+    {
+      "display_type": "date", 
+      "trait_type": "birthday", 
+      "value": 1579720355
+    }
+  ],
+  "external_url": "https://twitter.com/formula0x", 
+  "background_color": "242424"
+}
