@@ -1,0 +1,45 @@
+{
+  "name": "City Chevy f1 Pre-Season",
+  "image": "https://raw.githubusercontent.com/Formula0x/F0x.ERC-721/master/assets/concepts/f1_cc/asset.png", 
+  "description": "Concept Pre-Season testing livery if Chevy was to join f1 with Hendrick Motorsports.", 
+  "attributes": [
+    {
+      "trait_type": "name", 
+      "value": "City Chevy f1 Pre-Season"
+    },
+    {
+      "trait_type": "class", 
+      "value": "2019 F1"
+    },
+    {
+      "trait_type": "design", 
+      "value": "Concept"
+    },
+    {
+      "trait_type": "base_color", 
+      "value": "Green-Yellow fade"
+    },
+    {
+      "display_type": "number", 
+      "trait_type": "generation", 
+      "value": 1
+    },
+    {
+      "display_type": "number", 
+      "trait_type": "supply", 
+      "value": 1
+    },
+    {
+      "display_type": "number", 
+      "trait_type": "year", 
+      "value": 2020
+    },
+    {
+      "display_type": "date", 
+      "trait_type": "birthday", 
+      "value": 1579048066
+    }
+  ],
+  "external_url": "https://twitter.com/formula0x", 
+  "background_color": "ffffff"
+}

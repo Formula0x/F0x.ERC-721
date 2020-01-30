@@ -1,0 +1,45 @@
+{
+  "name": "Mellow Yellow NASCAR",
+  "image": "https://raw.githubusercontent.com/Formula0x/F0x.ERC-721/master/assets/concepts/mellow_nascar/asset.png", 
+  "description": "Modern twist on the Mellow Yellow racecar that originated in Days of Thunder.", 
+  "attributes": [
+    {
+      "trait_type": "name", 
+      "value": "Mellow Yellow NASCAR"
+    },
+    {
+      "trait_type": "class", 
+      "value": "NASCAR"
+    },
+    {
+      "trait_type": "design", 
+      "value": "Concept"
+    },
+    {
+      "trait_type": "base_color", 
+      "value": "Black"
+    },
+    {
+      "display_type": "number", 
+      "trait_type": "generation", 
+      "value": 2
+    },
+    {
+      "display_type": "number", 
+      "trait_type": "supply", 
+      "value": 1
+    },
+    {
+      "display_type": "number", 
+      "trait_type": "year", 
+      "value": 2020
+    },
+    {
+      "display_type": "date", 
+      "trait_type": "birthday", 
+      "value": 1579720355
+    }
+  ],
+  "external_url": "https://twitter.com/formula0x", 
+  "background_color": "242424"
+}
