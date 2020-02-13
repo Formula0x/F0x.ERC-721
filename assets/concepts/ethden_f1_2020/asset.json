@@ -1,0 +1,45 @@
+{
+  "name": "ETHDenver 2020 F1",
+  "image": "https://raw.githubusercontent.com/Formula0x/F0x.ERC-721/master/assets/concepts/ethden_f1_2020/asset.png", 
+  "description": "Celebrating ETHDenver 2020 and #BUIDLWeek with this F1 inspired livery", 
+  "attributes": [
+    {
+      "trait_type": "name", 
+      "value": "ETHDenver 2020 F1"
+    },
+    {
+      "trait_type": "class", 
+      "value": "2019 F1"
+    },
+    {
+      "trait_type": "design", 
+      "value": "Concept"
+    },
+    {
+      "trait_type": "base_color", 
+      "value": "Purple"
+    },
+    {
+      "display_type": "number", 
+      "trait_type": "generation", 
+      "value": 1
+    },
+    {
+      "display_type": "number", 
+      "trait_type": "supply", 
+      "value": 1
+    },
+    {
+      "display_type": "number", 
+      "trait_type": "year", 
+      "value": 2020
+    },
+    {
+      "display_type": "date", 
+      "trait_type": "birthday", 
+      "value": 1581637181
+    }
+  ],
+  "external_url": "https://twitter.com/formula0x", 
+  "background_color": "242424"
+}
