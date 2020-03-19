@@ -1,0 +1,45 @@
+{
+  "name": "0xRacing NASCAR 2020",
+  "image": "https://raw.githubusercontent.com/Formula0x/F0x.ERC-721/master/assets/partners/0xr_nascar/asset.png", 
+  "description": "0xRacing inspired NASCAR livery", 
+  "attributes": [
+    {
+      "trait_type": "name", 
+      "value": "0xRacing NASCAR 2020"
+    },
+    {
+      "trait_type": "class", 
+      "value": "2019 NASCAR"
+    },
+    {
+      "trait_type": "design", 
+      "value": "Partner"
+    },
+    {
+      "trait_type": "base_color", 
+      "value": "White-Red"
+    },
+    {
+      "display_type": "number", 
+      "trait_type": "generation", 
+      "value": 1
+    },
+    {
+      "display_type": "number", 
+      "trait_type": "supply", 
+      "value": 1
+    },
+    {
+      "display_type": "number", 
+      "trait_type": "year", 
+      "value": 2020
+    },
+    {
+      "display_type": "date", 
+      "trait_type": "birthday", 
+      "value": 1584660969
+    }
+  ],
+  "external_url": "https://twitter.com/formula0x", 
+  "background_color": "242424"
+}
